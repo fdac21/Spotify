@@ -5,7 +5,7 @@ import pandas as pd
 
 # read in csv with pandas
 
-music = pd.read_csv('music.csv')
+music = pd.read_csv('/Users/reaganmatlock/documents/545_COSC/final_project/music.csv')
 
 music.head()
 music.info()
